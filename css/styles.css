@@ -1,0 +1,20 @@
+.navbarx{
+    background-color:  #003a6c;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-align: end;
+    display: flex;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.text{
+    text-decoration: none;
+    margin-left: 10px;
+}
